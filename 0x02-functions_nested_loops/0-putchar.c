@@ -1,6 +1,16 @@
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+
+/**
+  * main - "entry"
+  * Description - 'Hey'
+  * Return: 0 (success)
+  *
+  *
+  */
 	/**
-	 * main - print _putchar
+	 * main i- print _putchar
 	 * is written by mbah
 	 * Return: 0
 	 */
