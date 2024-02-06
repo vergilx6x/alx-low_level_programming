@@ -25,6 +25,6 @@ listint_t *add_nodeint(listint_t **head, const int n);
 
 listint_t *add_nodeint_end(listint_t **head, const int n);
 
-void _free_lisint(listint_t *head);
+void free_lisint(listint_t *head);
 
 #endif
