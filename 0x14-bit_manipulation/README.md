@@ -1,0 +1,3 @@
+0x14. C - Bit manipulation...
+
+Task 1: Convert binary to unsigned int.
