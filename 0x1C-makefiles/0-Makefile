@@ -1,5 +1,5 @@
 # Usage:
-# make   # Compile source codes into an executable.
+# make   # Compiles source codes into an executable.
 
 all: school
 

@@ -1,0 +1,9 @@
+# Usage
+# make  # compiles source code files into an executable.
+
+CC = gcc
+
+SRC = $(wildcard *.c)
+
+all: school
+	${CC} ${SRC} -o school
