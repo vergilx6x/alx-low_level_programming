@@ -1,7 +1,7 @@
 # Usage:
 # make   # Compile source codes into an executable.
 
-.PHONY = all
+.PHONY : all
 
 school : main.c school.c
 	gcc main.c school.c -o school
